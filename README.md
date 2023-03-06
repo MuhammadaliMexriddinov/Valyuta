@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/104393658/223045102-470e06bd-6458-4f74-bdff-387412f9c55a.mp4
+
 # valyuta_app
 
 A new Flutter project.
