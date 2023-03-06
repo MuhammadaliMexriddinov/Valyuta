@@ -214,22 +214,6 @@ class _ItemWidgetState extends State<ItemWidget> {
                         }
                     ),
                   ),
-                  // Padding(
-                  //   padding: const EdgeInsets.only(right: 16.0, bottom: 1),
-                  //   child: Container(
-                  //     height: 55,
-                  //
-                  //     width: 55,
-                  //     decoration: BoxDecoration(
-                  //         color: Colors.deepPurple.shade500,
-                  //         borderRadius: BorderRadius.circular(10)),
-                  //     child: const Icon(
-                  //       Icons.transform,
-                  //       color: Colors.white,
-                  //       size: 35,
-                  //     ),
-                  //   ),
-                  // )
                 ],
               ),
             ],
